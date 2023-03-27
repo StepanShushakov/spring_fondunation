@@ -8,7 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mod1_lesson6" />
         <module name="simple_mvc" />
-        <module name="spring_fondunation" />
+        <module name="spring_foundunation" />
       </profile>
     </annotationProcessing>
   </component>

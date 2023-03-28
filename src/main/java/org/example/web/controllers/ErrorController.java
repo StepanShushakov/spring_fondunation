@@ -14,4 +14,9 @@ public class ErrorController {
     public String notFoundError() {
         return "errors/404";
     }
+
+    @GetMapping("/500")
+    public String internalError() {
+        return "errors/500";
+    }
 }
